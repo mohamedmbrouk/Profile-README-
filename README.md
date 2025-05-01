@@ -33,7 +33,7 @@
 > Feature-rich platform with role-based dashboards for CEOs and directors.
 - **Features:** Calendar, Task Delegation, Document Upload, Voting, KPI Management, Reports, and Directory
 - **Tech Stack:** React, Spring Boot, SQL Server  
-![Board Management Screenshot](IMAGE_URL_HERE)
+![Frame 2](https://github.com/user-attachments/assets/6996c0a7-b14f-4ca1-b2fb-8dcbe364a504)
 
 ---
 
