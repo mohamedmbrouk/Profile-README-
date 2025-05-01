@@ -41,7 +41,8 @@
 > Create, manage, and schedule SMS campaigns for targeted outreach.
 - **Tech Stack:** React, Spring Boot, Oracle, SQL Server, Etisalat SMS API  
 - **Features:** Custom scheduling, customer filters, delivery tracking  
-![SMS Campaign Screenshot](IMAGE_URL_HERE)
+![Frame 1](https://github.com/user-attachments/assets/ee31f9b6-06a1-4fa2-94b8-e38c6862e4f5)
+
 
 ---
 
