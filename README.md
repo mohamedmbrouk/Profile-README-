@@ -25,7 +25,6 @@
 > A complete system to monitor customers with legal actions, with verification (Maker-Checker) and automated daily reports.
 - **Tech Stack:** React, Spring Boot, SQL Server, Power BI  
 - **Features:** Verification flows, status tracking, reporting automation  
-![Legal System Screenshot](IMAGE_URL_HERE)
 
 ---
 
@@ -46,13 +45,16 @@
 
 ---
 
-#### 📌 Graduation Project – Child Monitoring Mobile App
+#### 📌 Graduation Project – Kidzo Mobile App
 > An AI-powered mobile app to assist mothers in monitoring children aged 1–8 using computer vision (YOLO v7).
 - **Frontend:** React Native  
 - **Backend:** Java Spring Boot  
 - **AI/ML:** YOLO v7 (Python)  
 - **Database:** Firebase  
-![Graduation App Screenshot](IMAGE_URL_HERE)
+
+
+https://github.com/user-attachments/assets/c62757bf-fac7-4995-a30f-4102737cc3bb
+
 
 ---
 
@@ -61,15 +63,6 @@
 - **Loan Officers Performance Dashboard** (Power BI)
 - **SMS Campaign Behavioral Dashboard**
 - **Legal Reports Visualization**
-
----
-
-### 📂 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmbrouk&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmbrouk&layout=compact&theme=react)
-
 ---
 
 ### 📬 Contact Me
