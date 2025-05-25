@@ -45,7 +45,7 @@
 
 ---
 
-#### 📌 Graduation Project – Kidzo Mobile App
+####   Kidzo Mobile App
 > An AI-powered mobile app to assist mothers in monitoring children aged 1–8 using computer vision (YOLO v7).
 - **Frontend:** React Native  
 - **Backend:** Java Spring Boot  
