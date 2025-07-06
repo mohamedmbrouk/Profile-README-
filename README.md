@@ -12,7 +12,7 @@
 
 ## 💼 Tech Stack
 
-- **Languages:** Java, JavaScript, C/C++
+- **Languages:** Java, JavaScript
 - **Frontend:** React.js, React Native, HTML/CSS
 - **Backend:** Java Spring Boot, Node.js
 - **Database:** Oracle, SQL Server, PostgreSQL, Firebase, MongoDB
